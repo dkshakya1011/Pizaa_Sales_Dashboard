@@ -47,3 +47,19 @@ A SQL and Power BI project analyzing pizza sales data to uncover key business in
 -A few specialty pizzas consistently underperform, suggesting an opportunity to optimize or replace under-selling items.
 
 -Monthly trends reveal clear seasonal fluctuations, which can support targeted marketing campaigns.
+
+##Final Conclusion
+
+The Pizza Sales Analysis project provides a clear and data-driven understanding of overall business performance. By combining SQL analysis with an interactive Power BI dashboard, we successfully identified key revenue drivers, customer ordering patterns, and product-level insights.
+
+The results show that:
+
+- Revenue growth is strongly influenced by weekends, indicating higher customer activity on Fridays, Saturdays, and Sundays.
+
+- Medium and Large pizza sizes generate the most revenue, making them the core product focus for future promotions.
+
+- Classic and Supreme categories are top-performing, contributing the highest share of total sales.
+
+- A few specialty pizzas consistently underperform, suggesting an opportunity to optimize or replace under-selling items.
+
+- Monthly trends reveal clear seasonal fluctuations, which can support targeted marketing campaigns.
