@@ -20,11 +20,13 @@ A SQL and Power BI project analyzing pizza sales data to uncover key business in
 ![Best_Worst_Saller_Dashboard](https://github.com/user-attachments/assets/9b2ccfe4-0b26-4598-a41d-cc1d5c5ba50e)
 
 ## Tools & Technologies
-Power BI – Dashboard & visualization
-SQL – Data extraction & analysis
-CSV – Data source
+
+-Power BI – Dashboard & visualization
+-SQL – Data extraction & analysis
+-CSV – Data source
 
 ## Project Inside
+
 -Fridays and weekends have the highest number of orders.
 -Large and Medium sizes contribute the highest revenue.
 -Classic and Supreme pizzas are the most popular.
