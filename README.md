@@ -21,20 +21,29 @@ A SQL and Power BI project analyzing pizza sales data to uncover key business in
 
 
 ## Tools & Technologies
--Power BI – Dashboard & visualization<br>
+-Power BI – Dashboard & visualization
 
--SQL – Data extraction & analysis<br>
+-SQL – Data extraction & analysis
 
--CSV – Data source<br>
+-CSV – Data source
 
 ## Project Inside
--Fridays and weekends have the highest number of orders.<br>
--Large and Medium sizes contribute the highest revenue.<br>
--Classic and Supreme pizzas are the most popular.<br>
--Seasonal spikes visible in monthly trends.<br>
--Some specialty pizzas have very low demand.<br>
--Revenue growth is strongly influenced by weekends, indicating higher customer activity on Fridays, Saturdays, and Sundays.<br>
--Medium and Large pizza sizes generate the most revenue, making them the core product focus for future promotions.<br>
--Classic and Supreme categories are top-performing, contributing the highest share of total sales.<br>
--A few specialty pizzas consistently underperform, suggesting an opportunity to optimize or replace under-selling items.<br>
--Monthly trends reveal clear seasonal fluctuations, which can support targeted marketing campaigns.<br>
+-Fridays and weekends have the highest number of orders.
+
+-Large and Medium sizes contribute the highest revenue.
+
+-Classic and Supreme pizzas are the most popular.
+
+-Seasonal spikes visible in monthly trends.
+
+-Some specialty pizzas have very low demand.
+
+-Revenue growth is strongly influenced by weekends, indicating higher customer activity on Fridays, Saturdays, and Sundays.
+
+-Medium and Large pizza sizes generate the most revenue, making them the core product focus for future promotions.
+
+-Classic and Supreme categories are top-performing, contributing the highest share of total sales.
+
+-A few specialty pizzas consistently underperform, suggesting an opportunity to optimize or replace under-selling items.
+
+-Monthly trends reveal clear seasonal fluctuations, which can support targeted marketing campaigns.
