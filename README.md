@@ -25,11 +25,11 @@ A SQL and Power BI project analyzing pizza sales data to uncover key business in
 -CSV – Data source
 
 ## Project Inside
--Fridays and weekends have the highest number of orders
--Large and Medium sizes contribute the highest revenue
--Classic and Supreme pizzas are the most popular
--Seasonal spikes visible in monthly trends
--Some specialty pizzas have very low demand
+-Fridays and weekends have the highest number of orders.
+-Large and Medium sizes contribute the highest revenue.
+-Classic and Supreme pizzas are the most popular.
+-Seasonal spikes visible in monthly trends.
+-Some specialty pizzas have very low demand.
 
 ##Final Conclusion
 
