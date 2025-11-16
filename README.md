@@ -19,3 +19,7 @@ A SQL and Power BI project analyzing pizza sales data to uncover key business in
 <img width="1333" height="728" alt="Pizza_Sales_home_Dashboard" src="https://github.com/user-attachments/assets/dcae0fa1-9539-4409-a43b-d23d02bef24c" />
 ![Best_Worst_Saller_Dashboard](https://github.com/user-attachments/assets/9b2ccfe4-0b26-4598-a41d-cc1d5c5ba50e)
 
+## Tools & Technologies
+-Power BI – Dashboard & visualization
+-SQL – Data extraction & analysis
+-CSV – Data source
