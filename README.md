@@ -48,7 +48,7 @@ A SQL and Power BI project analyzing pizza sales data to uncover key business in
 
 -Monthly trends reveal clear seasonal fluctuations, which can support targeted marketing campaigns.
 
-##Final Conclusion
+#Final Conclusion
 
 The Pizza Sales Analysis project provides a clear and data-driven understanding of overall business performance. By combining SQL analysis with an interactive Power BI dashboard, we successfully identified key revenue drivers, customer ordering patterns, and product-level insights.
 
