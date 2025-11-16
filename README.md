@@ -22,7 +22,9 @@ A SQL and Power BI project analyzing pizza sales data to uncover key business in
 
 ## Tools & Technologies
 -Power BI – Dashboard & visualization<br>
+
 -SQL – Data extraction & analysis<br>
+
 -CSV – Data source<br>
 
 ## Project Inside
